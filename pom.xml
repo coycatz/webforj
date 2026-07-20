@@ -5,7 +5,7 @@
 
   <groupId>com.webforj</groupId>
   <artifactId>webforj-parent</artifactId>
-  <version>26.01-SNAPSHOT</version>
+  <version>26.02-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>webforj</name>
   <description>
@@ -215,7 +215,7 @@
         <plugin>
           <groupId>org.sonatype.central</groupId>
           <artifactId>central-publishing-maven-plugin</artifactId>
-          <version>0.10.0</version>
+          <version>0.11.0</version>
           <extensions>true</extensions>
           <configuration>
             <publishingServerId>central</publishingServerId>
